@@ -1,1 +1,1 @@
-# salka-100_Python_Projects
+# 100_Python_Projects
